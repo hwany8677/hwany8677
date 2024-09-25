@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Mediocre-level hacker wannabe who's recently into competitive programming
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanyplayz)](https://solved.ac/hwanyplayz)
+
+Main languages: 
+
+![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoColor=color) ![Static Badge](https://img.shields.io/badge/C-000000?logo=C&logoColor=color) 
