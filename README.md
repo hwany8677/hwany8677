@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Mediocre-level hacker wannabe who's recently into competitive programming
+Average-level cybersecurity expert-wannabe who's recently got interested in competitive programming
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanyplayz)](https://solved.ac/hwanyplayz)
 
