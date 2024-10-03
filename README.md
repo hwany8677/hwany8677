@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Average-level backend dev wannabe who's recently got interested in competitive programming
+Newbie dev wannabe who's recently got interested in competitive programming
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwanyplayz)](https://solved.ac/hwanyplayz)
 
